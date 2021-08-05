@@ -29,7 +29,7 @@
     "@typegoose/typegoose": "^7.6.1",
     "dotenv": "^10.0.0",
     "mongodb": "^3.6.9",
-    "mongoose": "^5.12.13",
+    "mongoose": "5.10.14",
     "mongoose-autopopulate": "^0.14.0",
     "mongoose-lean-virtuals": "^0.8.0",
     "nestjs-typegoose": "^7.1.38",
